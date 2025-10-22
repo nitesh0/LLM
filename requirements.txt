@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+langchain
+langgraph
+openai
+chromadb
+pgvector
+loguru
+httpx
+langchain-groq
